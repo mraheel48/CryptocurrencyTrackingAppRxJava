@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CryptocurrencyTrackingAppRxJava</string>
+    <string name="btc">BTC</string>
+    <string name="_0_000">0.000</string>
+</resources>
